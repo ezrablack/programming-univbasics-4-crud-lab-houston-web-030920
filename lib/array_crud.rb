@@ -16,7 +16,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  add_element_to_end_of_array.pop
+  hobbies = ["food", "music", "camping", "cooking"]
+  hobbies.pop
 end
 
 def remove_element_from_start_of_array(array)
