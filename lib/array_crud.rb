@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   hobbies = ["food", "music", "camping", "cooking"]
-  hobbies << "Cooper"
+  hobbies << ""
 end
 
 def add_element_to_start_of_array(array, element)
